@@ -28,4 +28,4 @@
 
 ## 致谢
 
-本书使用了开源工具 [Jupyter Book project](https://jupyterbook.org/) 和 [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book)，感谢开源社区的贡献者们。
+本书使用了开源工具 [Jupyter Book project](https://jupyterbook.org/) 和 [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book)，感谢开源社区的贡献者们,尤其是欧阳师兄。
